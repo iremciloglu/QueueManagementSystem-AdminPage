@@ -23,8 +23,9 @@ queue numbers remotely.
 
 ###### To run:
 Install the required Python packages by running the following command:
-  -'pip install flask-firebase-admin' 
-  - 'pip install Flask-WTF'
-  -'pip install Flask'
-  -'pip install firebase-admin'
+
+- 'pip install flask-firebase-admin' 
+- 'pip install Flask-WTF'
+- 'pip install Flask'
+- 'pip install firebase-admin'
 
