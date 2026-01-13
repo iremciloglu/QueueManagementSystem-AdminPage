@@ -21,7 +21,7 @@ queue numbers remotely.
 - K. Barış Gökmen
 - İrem Çiloğlu
 
-###### To run:
+###### Run:
 Install the required Python packages by running the following command:
 
 - 'pip install flask-firebase-admin' 
